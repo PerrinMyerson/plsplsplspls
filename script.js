@@ -12,6 +12,8 @@ const messages = [
 	"You're gonna have to click yes eventually",
 	"Stop playing hard to get, I know you want me ",
 	"PLS PLS PLS PLS Click yes 🙏",
+	"Imagine how cute we'd look together",
+	"We'd make the perfect team",
 ];
 
 // Function to toggle light and dark themes
